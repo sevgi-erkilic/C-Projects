@@ -1,6 +1,6 @@
 # C Programlama Alıştırmaları
 
-Bu depo, C dili öğrenme sürecimde yazdığım temel matematiksel hesaplama ve geometri projelerini içerir.
+Bu depo, C dili öğrenme sürecimde yazdığım temel matematiksel hesaplama, operatör kullanımı ve geometri projelerini içerir.
 
 ## Projeler Listesi:
 * `daireAlaniVeCevresi.c` - Yarıçapı girilen dairenin alanı ve çevresi.
